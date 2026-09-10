@@ -90,32 +90,6 @@ ai-chat-bot-app/
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint checks
 
-## ⚙️ ESLint Configuration
-
-This project includes ESLint configuration for code quality. For production applications, consider enabling type-aware lint rules by updating your ESLint configuration.
-
-You can also install additional React-specific linting rules:
-- `eslint-plugin-react-x` - React-specific lint rules
-- `eslint-plugin-react-dom` - React DOM-specific lint rules
-
-## 📱 Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bug reports and feature requests.
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 📞 Support
-
-For questions or issues, please open an issue on the [GitHub repository](https://github.com/hungle88/ai-chat-bot-app/issues).
 
 ---
 
